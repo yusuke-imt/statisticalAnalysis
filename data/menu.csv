@@ -1,0 +1,12 @@
+SP.POP.TOTL,Population total,year, people
+SP.POP.GROW,Population growth (annual %),year,%
+EN.ATM.CO2E.PC,Co2 Emissions,year,metric tons per capita
+NY.GDP.MKTP.KD.ZG,GDP Growth,year,annual %
+NY.GDP.MKTP.CD,GDP,year,amount of money
+CM.MKT.INDX.ZG,S&P Global Equity Indices,year,%
+CM.MKT.TRAD.GD.ZS,Stocks traded, total value (% of GDP),year,%
+TX.VAL.TECH.MF.ZS,High-technology exports (% of manufactured exports),year,%
+SE.PRM.UNER.FE,Children out of school primary female,year, people
+FB.BNK.CAPA.ZS,Bank capital to assets ratio (%),year,%
+FR.INR.RINR,Real interest rate (%),year,%
+FM.LBL.BMNY.ZG,Broad money growth (annual %),year,%
